@@ -10,4 +10,4 @@ If some modules in this don't work, that's probably because this tool is a year 
 
 # Need Support?
 
-Add me on discord for any questions, r1tz#1337 <3
+Add me on discord for any questions, funeral.#1337
